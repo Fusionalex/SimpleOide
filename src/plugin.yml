@@ -1,0 +1,12 @@
+name: SimpleOide
+version: 1.0
+description: Oidet herum.
+author: SirAlex
+website:
+main: me.SirAlex.SimpleOide.SimpleOide
+
+commands:
+  oide:
+    description: Oidet herum!
+  fliegen:
+    description: Fliegt herum!
